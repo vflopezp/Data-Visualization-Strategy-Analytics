@@ -1,0 +1,51 @@
+,Player,Team,Age,Height,Weight,College,Country,Draft Year,Draft Round,Draft Number,GP,PTS,REB,AST,NetRtg,OREB%,DREB%,USG%,TS%,AST%
+0,Dario Saric,PHX,26,6-10,225,None,Croatia,2014,1,12,66,10.7,6.2,1.9,-1.2,6.0%,18.6%,17.4%,59.2%,10.5%
+1,Darius Bazley,OKC,20,6-8,208,None,USA,2019,1,23,61,5.6,4.0,0.7,-3.2,2.5%,17.2%,14.6%,49.7%,5.4%
+2,Darius Garland,CLE,20,6-1,192,Vanderbilt,USA,2019,1,5,59,12.3,1.9,3.9,-8.7,1.4%,4.6%,20.1%,49.8%,18.2%
+3,Daryl Macon,MIA,24,6-2,185,Arkansas,USA,2018,,,4,0.8,0.0,0.3,7.6,0.0%,0.0%,16.7%,50.0%,14.3%
+4,David Nwaba,HOU,27,6-5,219,Cal Poly,USA,Undrafted,Undrafted,Undrafted,20,5.2,2.3,0.4,7.2,2.7%,10.9%,13.9%,62.7%,4.6%
+5,Davis Bertans,WAS,27,6-10,225,None,Latvia,2011,2,42,54,15.4,4.5,1.7,-0.3,2.1%,13.0%,18.3%,62.8%,8.1%
+6,De'Aaron Fox,SAC,22,6-3,185,Kentucky,USA,2017,1,5,51,21.1,3.8,6.8,-4.0,2.1%,9.9%,29.0%,55.8%,33.6%
+7,De'Andre Hunter,ATL,22,6-7,225,Virginia,USA,2019,1,4,63,12.3,4.5,1.8,-5.5,2.1%,11.6%,17.3%,52.1%,7.9%
+8,De'Anthony Melton,MEM,22,6-2,200,Southern California,USA,2018,2,46,60,7.6,3.7,2.9,5.1,3.5%,13.7%,18.5%,50.1%,19.6%
+9,DeAndre Jordan,BKN,31,6-11,265,Texas A&M,USA,2008,2,35,56,8.3,10.0,1.9,-1.8,10.5%,29.3%,13.6%,68.2%,13.2%
+10,DeAndre' Bembry,ATL,25,6-5,210,St. Joseph's (PA),USA,2016,1,21,43,5.8,3.5,1.9,-11.8,3.4%,12.3%,13.7%,50.0%,13.0%
+11,DeMar DeRozan,SAS,30,6-6,220,Southern California,USA,2009,1,9,68,22.1,5.5,5.6,-1.8,1.9%,13.9%,26.2%,60.3%,26.1%
+12,DeMarre Carroll,HOU,33,6-6,215,Missouri,USA,2009,1,27,24,3.6,2.3,1.0,0.0,4.2%,13.8%,14.8%,51.5%,11.6%
+13,Dean Wade,CLE,23,6-9,228,Kansas State,USA,Undrafted,Undrafted,Undrafted,12,1.7,1.6,0.2,-6.5,3.8%,21.3%,9.1%,74.4%,3.9%
+14,Deandre Ayton,PHX,21,6-11,250,Arizona,Bahamas,2018,1,1,38,18.2,11.5,1.9,4.0,12.0%,22.5%,23.1%,56.8%,9.1%
+15,Dejounte Murray,SAS,23,6-4,180,Washington,USA,2016,1,29,66,10.9,5.8,4.1,-4.2,4.0%,18.4%,20.7%,52.4%,23.2%
+16,Delon Wright,DAL,28,6-5,185,Utah,USA,2015,1,20,73,6.9,3.8,3.3,1.7,4.0%,12.4%,14.0%,55.4%,21.5%
+17,Dennis Schroder,OKC,26,6-1,172,None,Germany,2013,1,17,65,18.9,3.6,4.0,5.5,1.0%,9.9%,26.2%,57.5%,22.2%
+18,Dennis Smith Jr.,NYK,22,6-2,205,North Carolina State,USA,2017,1,9,34,5.5,2.3,2.9,-17.1,3.4%,10.2%,22.3%,39.9%,29.7%
+19,Denzel Valentine,CHI,26,6-4,220,Michigan State,USA,2016,1,14,36,6.8,2.1,1.2,-5.0,1.6%,13.8%,22.9%,51.1%,14.7%
+20,Deonte Burton,OKC,26,6-4,240,Iowa State,USA,Undrafted,Undrafted,Undrafted,39,2.7,1.5,0.4,-12.7,1.7%,11.9%,17.3%,39.6%,7.6%
+21,Derrick Favors,NOP,28,6-9,265,Georgia Tech,USA,2010,1,3,51,9.0,9.8,1.6,4.2,12.1%,24.9%,13.5%,62.0%,8.7%
+22,Derrick Jones Jr.,MIA,23,6-6,210,UNLV,USA,Undrafted,Undrafted,Undrafted,59,8.5,3.9,1.1,-0.5,4.9%,11.5%,13.5%,62.0%,6.8%
+23,Derrick Rose,DET,31,6-2,200,Memphis,USA,2008,1,1,50,18.1,2.4,5.6,-3.4,2.1%,7.1%,30.3%,55.5%,37.3%
+24,Derrick Walton Jr.,DET,25,6-0,185,Michigan,USA,Undrafted,Undrafted,Undrafted,26,2.0,0.6,1.0,-0.9,0.7%,5.4%,7.9%,61.7%,15.5%
+25,Derrick White,SAS,25,6-4,190,Colorado,USA,2017,1,29,68,11.3,3.3,3.5,1.0,2.0%,10.5%,18.3%,59.3%,20.3%
+26,Devin Booker,PHX,23,6-5,206,Kentucky,USA,2015,1,13,70,26.6,4.2,6.5,2.7,1.2%,10.6%,29.4%,61.8%,28.8%
+27,Devon Hall,OKC,24,6-5,215,Virginia,USA,2018,2,53,11,1.8,0.6,1.2,3.8,1.9%,6.0%,18.2%,29.8%,21.7%
+28,Devontae Cacok,LAL,23,6-8,240,North Carolina-Wilmington,USA,Undrafted,Undrafted,Undrafted,1,6.0,5.0,1.0,22.7,16.7%,33.3%,22.2%,50.0%,12.5%
+29,Devonte' Graham,CHA,25,6-1,195,Kansas,USA,2018,2,34,63,18.2,3.4,7.5,-4.5,1.8%,7.8%,24.3%,53.7%,34.5%
+30,Dewan Hernandez,TOR,23,6-10,235,Miami,USA,2019,2,59,6,2.3,2.3,0.5,17.2,17.2%,26.5%,25.7%,43.2%,12.5%
+31,Dewayne Dedmon,ATL,30,7-0,245,Southern California,USA,Undrafted,Undrafted,Undrafted,44,5.8,5.7,0.5,-0.7,7.5%,24.1%,17.9%,47.3%,4.1%
+32,Dillon Brooks,MEM,24,6-7,225,Oregon,Canada,2017,2,45,73,16.2,3.3,2.1,-0.3,3.0%,7.6%,24.7%,51.0%,10.4%
+33,Dion Waiters,LAL,28,6-3,210,Syracuse,USA,2012,1,4,10,11.1,2.4,2.0,7.8,0.9%,10.2%,24.3%,52.1%,15.6%
+34,Domantas Sabonis,IND,24,6-11,240,Gonzaga,Lithuania,2016,1,11,62,18.5,12.4,5.0,3.1,8.9%,26.2%,22.9%,58.6%,21.5%
+35,Donovan Mitchell,UTA,23,6-1,215,Louisville,USA,2017,1,13,69,24.0,4.4,4.3,2.6,2.3%,10.1%,30.3%,55.8%,21.4%
+36,Donta Hall,BKN,22,6-9,229,Alabama,USA,Undrafted,Undrafted,Undrafted,9,4.3,4.2,0.4,-12.0,9.3%,19.7%,10.9%,65.2%,4.8%
+37,Donte DiVincenzo,MIL,23,6-4,203,Villanova,USA,2018,1,17,66,9.2,4.8,2.3,12.2,4.1%,14.0%,16.8%,55.7%,13.4%
+38,Dorian Finney-Smith,DAL,27,6-7,220,Florida,USA,Undrafted,Undrafted,Undrafted,71,9.5,5.7,1.6,6.5,6.6%,11.3%,12.8%,59.5%,7.3%
+39,Doug McDermott,IND,28,6-7,225,Creighton,USA,2014,1,11,69,10.3,2.5,1.1,3.2,1.8%,9.8%,18.6%,62.0%,8.1%
+40,Dragan Bender,GSW,22,7-0,249,None,Croatia,2016,1,4,16,6.7,4.6,1.8,1.1,6.0%,18.3%,18.0%,54.5%,14.2%
+41,Draymond Green,GSW,30,6-6,230,Michigan State,USA,2012,2,35,43,8.0,6.2,6.2,-7.2,1.8%,19.2%,15.6%,48.9%,31.0%
+42,Drew Eubanks,SAS,23,6-9,245,Oregon State,USA,Undrafted,Undrafted,Undrafted,22,4.9,3.9,0.7,-11.0,9.9%,20.3%,15.0%,68.2%,8.9%
+43,Duncan Robinson,MIA,26,6-7,215,Michigan,USA,Undrafted,Undrafted,Undrafted,73,13.5,3.2,1.4,7.5,0.5%,9.9%,15.7%,68.4%,6.8%
+44,Dusty Hannahs,MEM,26,6-3,210,Arkansas,USA,2017,,,2,6.0,0.5,0.0,17.2,0.0%,6.3%,28.6%,60.7%,0.0%
+45,Dwayne Bacon,CHA,24,6-6,221,Florida State,USA,2017,2,40,39,5.7,2.6,1.3,-8.2,2.0%,12.4%,18.9%,41.9%,12.1%
+46,Dwight Howard,LAL,34,6-10,265,None,USA,2004,1,1,69,7.5,7.3,0.7,5.9,12.8%,25.7%,14.6%,69.6%,4.8%
+47,Dwight Powell,DAL,28,6-10,240,Stanford,Canada,2014,2,45,40,9.4,5.7,1.5,8.9,7.1%,13.2%,12.6%,67.7%,7.6%
+48,Dzanan Musa,BKN,21,6-9,217,None,Bosnia and He...,2018,1,29,40,4.8,2.2,1.1,-2.5,3.9%,11.7%,19.3%,48.4%,13.1%
+49,E'Twaun Moore,NOP,31,6-3,191,Purdue,USA,2011,2,55,56,8.3,2.3,1.4,-2.2,2.7%,9.5%,19.6%,51.0%,11.0%

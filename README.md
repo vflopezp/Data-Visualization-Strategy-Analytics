@@ -1,6 +1,6 @@
 # Data-Visualization-Strategy-Analytics
 
-This repository contains the python scripts that been used to scrape, merge and clean the datasets used for my Data-Visualization-Strategy-Analytics course work. The main objective
+This repository contains the python scripts that been used to scrape, merge and clean the datasets used for my Data-Visualization-Strategy-Analytics coursework. The main objective
 of those scripts were to combine two datasets, one from kaggle (data/nba_2020_per_game.csv) with key performance metrixes for each NBA player for season 2019-2020 and 
 another from NBA website with player heigths.
 
